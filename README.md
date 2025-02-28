@@ -4,7 +4,7 @@
 
 This repository contains a step-by-step tutorial for configuring a Flask application to run on Docker with Postgres. It is enhanced for production environments by integrating Nginx and Gunicorn to efficiently serve static and user-uploaded media files. Below is a short animated GIF showcasing the process of uploading an image:
 
-![Image Upload Process](images/oogway.gif)
+![Image Upload Process](noodles.gif)
 
 ## Build Instructions
 
